@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {background-image: linear-gradient(to right, rgba(218, 212, 212, 0.705),rgba(0, 51, 128, 0.452));
+    font: normal 14pt Tahoma;
+}
+
+main {
+    
+    background-image: url("imagens/textura.jpg");
+    border-radius: 10px;
+    padding: 18px;
+    margin: auto;
+    width: 600px;
+    box-shadow: 3px 3px 8px rgba(2, 0, 22, 0.548);
+}
+
+h1 {color: rgba(9, 9, 109, 0.562);
+    text-align: center;
+    text-shadow: 1px 1px 4px rgba(19, 12, 99, 0.349);
+}
+
+h2 {color: rgb(9, 9, 109);}
+
+p {color: rgba(0, 0, 0, 0.767);}
+
+li {color: rgba(0, 0, 0, 0.767);}
+
+footer {color: rgba(9, 9, 109, 0.562);
+    text-align: center;
+    font-size: 0.9em;
+
+}
